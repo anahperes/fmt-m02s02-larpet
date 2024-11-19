@@ -1,0 +1,11 @@
+.dog-owner-header {
+    border-radius: 8px;
+}
+
+.slide-height {
+    height: 80vh;
+}
+
+.slide-cover {
+    object-fit: cover;
+}
